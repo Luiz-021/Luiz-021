@@ -1,69 +1,69 @@
 <div align="center">
 
-  <!-- Efeito de Digitação Animado -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Luiz+Gustavo!;Backend+Developer+(Java+%2F+Python);CS+Student+%40+UFC;Full+Stack+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=787Af0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Python+Backend+Expert;CS+Student+%40+UFC;Quality+%26+Testing+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Texto de Introdução -->
   <p align="center">
-    Estudante de <b>Ciência da Computação na UFC</b> focado em arquitetura de software escalável.<br/>
-    Transformo café em APIs REST robustas e interfaces intuitivas.
+    Desenvolvedor Full Stack em formação na <b>UFC</b>. <br/>
+    Meu foco é unir a lógica robusta do Backend (Java/Python) com interfaces modernas, sempre priorizando a <b>qualidade de software</b> e arquitetura limpa.
   </p>
 
+  <a href="https://www.linkedin.com/in/luiz-gustavo-da-silva-barbosa-11209924a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:luizgute@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank" />
+  </a>
+
 </div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+### 🛠️ Arsenal Técnico
 
 <div align="center">
-  <!-- Ícones de tecnologias (Skill Icons) -->
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,react,js,html,css,c,cpp,postgres,docker,aws,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,react,nodejs,js,ts,html,css,postgres,mongo,docker,aws,git,cpp&perline=8" />
+  
+  <br/><br/>
+  
+  <p>
+    🧩 <b>Arquitetura & QA:</b> MVC, MVVM, Observer Pattern, CppCheck, Test Planning.<br/>
+    📐 <b>Algoritmos Visuais:</b> p5.js (JavaScript Creative Coding) & Vetores.
+  </p>
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### ✅ Projetos Concluídos
 
-| Projeto | Tecnologias | Descrição Rápida |
+| Projeto | Tech Stack | O que foi feito? |
 | :--- | :--- | :--- |
-| **🎮 Jogo "Termo" Fullstack** | React, Node.js, Mongo | Jogo de adivinhação com persistência de dados e lógica de validação complexa. |
-| **📋 To-Do List API** | Django REST, Docker, JWT | API completa com autenticação JWT e deploy containerizado. |
-| **🕹️ DSList API** | Java Spring, JPA | API de catálogo de jogos com arquitetura em camadas e padrão DTO. |
-| **🍎 Dietas Já** | Python, Scrum | App de controle alimentar focado em Engenharia de Software e processos ágeis. |
+| **📋 To-Do List API** | `Django REST` `Docker` `JWT` | API robusta com autenticação segura, permissões granulares e deploy containerizado. |
+| **🕹️ DSList API** | `Java Spring` `JPA` `H2` | Sistema de catálogo de jogos com arquitetura em camadas (Clean Architecture) e padrão DTO. |
+| **🍎 Dietas Já** | `Python` `Scrum` | Aplicação focada no processo de Engenharia de Software, modelagem de dados e metodologias ágeis. |
+
+### 🚧 Lab & Desenvolvimento
+
+| Projeto | Status | Foco do Estudo |
+| :--- | :--- | :--- |
+| **🎮 Jogo "Termo" Clone** | *Building...* | Aplicação **Full Stack** (React + Node + Mongo) focada em lógica de validação complexa e estado global. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Cartão de Estatísticas (Tema escuro e moderno) -->
+  <a href="https://github.com/Luiz-021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <!-- Cartão de Linguagens mais usadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-021&layout=compact&theme=tokyonight&langs_count=6"/>
-</div>
-
----
-
-### 🧠 Estudos Atuais
-* **Engenharia de Software:** GQM (Goal-Question-Metric) e Quality in Use (QinU).
-* **Matemática Computacional:** Vetores e Simulações Físicas (p5.js).
-
-<div align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-da-silva-barbosa-11209924a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:luizgute@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
 
-<!-- Espaço para a animação da cobrinha (Passo 3) -->
+<br/>
+
 <div align="center">
-  <img src="https://github.com/Luiz-021/Luiz-021/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Luiz-021/Luiz-021/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
